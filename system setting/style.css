@@ -1,0 +1,91 @@
+.A{
+    background-color: rgb(222, 221, 221);
+    padding: 15px;
+    display: flex;
+}
+.D{
+    border: 1px solid black;
+    width: 40%;
+    margin: 30px;
+    background-color: beige;
+    font-size: 15px;
+    padding: 15px;
+}
+.all{
+    display: flex;
+    
+}
+.dd{
+    background-color: rgb(230, 231, 230);
+    padding: 15px;
+    display: flex;
+}
+.dd1{
+    text-align: justify;
+    background-color: rgb(228, 238, 252);
+    border:2px solid black ;
+    padding: 10px;
+    margin: 30px;
+    width: 40%;
+}
+.dd2{
+    border: 2px solid black;
+    width: 40%;
+    background-color: rgb(226, 237, 254);
+    padding: 10px;
+    margin: 30px;
+
+}
+.N{
+    background-color: rgb(220, 221, 220);
+    display: flex;
+    padding: 15px;
+}
+
+.NN{
+    border: 2px solid black;
+    width: 40%;
+    margin: 30px;
+    background-color: rgb(224, 236, 253);
+    font-size: 15px;
+    padding: 15px;
+}
+.SS{ 
+    background-color: rgb(220, 221, 220);
+    display: flex;
+    padding: 15px;
+}
+.SS1{
+    border: 2px solid black;
+    width: 40%;
+    margin: 30px;
+    background-color: rgb(224, 236, 253);
+    font-size: 15px;
+    padding: 15px;
+}
+.AA{
+   background-color: rgb(220, 221, 220);
+    display: flex;
+    padding: 15px; 
+}
+.AA1{
+    border: 2px solid black;
+    width: 40%;
+    margin: 30px;
+    background-color: rgb(224, 236, 253);
+    font-size: 15px;
+    padding: 15px;
+}
+.C{
+     background-color: rgb(220, 221, 220);
+    display: flex;
+    padding: 15px; 
+}
+.CC{
+   border: 2px solid black;
+    width: 40%;
+    margin: 30px;
+    background-color: rgb(224, 236, 253);
+    font-size: 15px;
+    padding: 15px;
+ }
