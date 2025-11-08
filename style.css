@@ -1,26 +1,78 @@
-* {
-    margin: 0%;
-    padding: 0;
+body{
+  background-color: rgb(225, 229, 233);
+}  
+.container{
+    background: rgb(239, 246, 248);
+  border:1px solid black;
+  width: 100;
+  padding:10px ;
+  margin:15px ;
+  background-color: rgb(232, 237, 238);
 }
 
-body {
-    background-color: #cbead7;
-    padding: 16px;
-}
 
-.ashok,
-.bhai,
-.vikash,
-.mohan {
-    width: 100%;
-    max-width: 700px;
-    background: #fbf9f9;
-    padding: 14px;
-    margin: 9px;
-    border: 1px;
-}
 
-p {
-    color: #ac9897;
-    font-size: 14px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
