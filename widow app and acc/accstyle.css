@@ -1,0 +1,16 @@
+header{
+    font:normal
+}
+body{
+   background-color: rgb(207, 222, 234);
+}
+
+div{
+    width:90%;
+    background-color: rgb(186, 186, 182);
+    padding: 14px;
+    margin: 8px;  
+}
+p{
+    color: rgb(63, 63, 63);
+}
